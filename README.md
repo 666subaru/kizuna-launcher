@@ -37,7 +37,7 @@ Developed and verified in-game on real titles: story-heavy RPG Maker games (~95%
 
 ### Free forever
 
-No paywall, no premium tier. MIT-licensed, donations welcome. A translation tool should build bridges, not tollbooths.
+No paywall, no premium tier. MIT-licensed. Donations will open together with the public release — until then, a ⭐ is all the support we ask. A translation tool should build bridges, not tollbooths.
 
 ### Legal & fair
 
@@ -72,7 +72,7 @@ Gerçek oyunlarda, oyun içinde doğrulanarak geliştirildi: hikâye ağırlıkl
 
 ### Sonsuza dek ücretsiz
 
-Paywall yok, premium paket yok. MIT lisanslı, bağışlar hoş karşılanır. Çeviri aracı köprü kurmalı, gişe değil.
+Paywall yok, premium paket yok. MIT lisanslı. Bağışlar halka açık sürümle birlikte açılacak — o güne kadar istediğimiz tek destek bir ⭐. Çeviri aracı köprü kurmalı, gişe değil.
 
 ### Yasal ve adil
 
